@@ -1,0 +1,9 @@
+[package]
+name = "fltk_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fltk = { version = "^1.5", features = ["fltk-bundled"] }
+fltk-flex = "0.2"
+fltk-theme = "=0.4.0"
