@@ -1,6 +1,6 @@
-use fltk::{app, button, enums::Color, frame, input, prelude::*, window};
+use fltk::{app, button, frame, input, prelude::*, window};
 use fltk_flex::Flex;
-use fltk_theme::{widget_themes, ThemeType, WidgetScheme, WidgetTheme};
+use fltk_theme::{ThemeType, WidgetTheme};
 
 fn main() {
     let app = app::App::default();
