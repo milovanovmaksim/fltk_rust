@@ -14,3 +14,8 @@ fltk-theme = "=0.4.0"
 [[example]]
 name = "basic"
 path = "src/basic.rs"
+
+
+[[example]]
+name = "user_input"
+path = "src/user_input.rs"
